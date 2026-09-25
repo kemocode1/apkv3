@@ -1,0 +1,5 @@
+{
+  "host": "https://caoro1.duckdns.org/",
+  "socket": "wss://caoro1.duckdns.org/",
+  "webView": "https://google.com/"
+}
